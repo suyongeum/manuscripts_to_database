@@ -1,0 +1,21 @@
+# ignore all files in the .idea/ directory (pycharm files)
+.idea/
+
+# Setting files
+src/settings.py
+
+# Data files
+data_manuscripts/
+data_words/
+
+# all files under logs directory
+**.log
+
+# compiled py files			
+**.pyc
+
+# database file				
+**.sql
+
+# database file				
+**.DS_Store
